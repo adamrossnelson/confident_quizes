@@ -36,7 +36,9 @@ On your team’s main workstation:
    `https://github.com/your-username/confident_quizes`
 
 2. Click the green **Code** button and copy the HTTPS URL.  
-   Open your terminal (or Git Bash) and run:
+   Open your terminal (or Git Bash),
+   be sure to navigate to the directory where you want to clone the repository,
+   and run:
 
    `git clone https://github.com/your-username/confident_quizes.git`
 
