@@ -1,0 +1,58 @@
+1. How do we create and call a function named create_list in Python?
+  a) def -> create_list()
+  b) def -> call.create_list()
+  c) def create_list(): then create_list()
+  d) func create_list(): then create_list()
+
+2. What is the output of print("Data" + "Science")?
+  a) DataScience
+  b) Data Science
+  c) Data+Science
+  d) Error
+
+3. How do you create a list with the numbers 1 to 5 in Python?
+  a) list = [1 to 5]
+  b) list = range(1,6)
+  c) list = [1, 2, 3, 4, 5]
+  d) list = (1,2,3,4,5)
+
+4. Which symbol is used for "not equal to" in Python?
+  a) <>
+  b) =!
+  c) !=
+  d) ~=
+
+5. What is the main use of the NumPy library in data science?
+  a) Creating GUIs
+  b) Handling large multi-dimensional arrays and mathematical operations
+  c) Scraping web pages
+  d) Plotting data
+
+6. Which of the following gives you basic stats for a DataFrame df?
+  a) df.summary()
+  b) df.stats()
+  c) df.describe()
+  d) df.info()
+
+7. What does sns.boxplot(data=df, x="group", y="score") do?
+  a) Creates a scatterplot
+  b) Plots a bar chart
+  c) Plots a boxplot of scores by group
+  d) Fits a regression line
+
+8. In supervised learning, what do we mean by a "label"?
+  a) The name of the dataset
+  b) The variable we're trying to predict
+  c) The input features
+  d) A type of model
+
+Correct Answers:
+
+1. c
+2. a
+3. c
+4. c
+5. b
+6. c
+7. c
+8. b
