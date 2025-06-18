@@ -1,18 +1,80 @@
-1. What will print("3" * 10) generate?
-   a) 30
-   b) 3
-   c) 0
-   d) 3333333333
+1. How do you load in packages as a specific name (e.g., np for numpy)?
 
-2. What will the output of following code be in Python? 
-   s = 'hello my name is #Todd'
-   s.split('#')
-   a) ['hello', 'my', 'name', 'is', '#Todd']
-   b) ['hello my name is ', 'Todd']
-   c) ['hello', 'my', 'name', 'is', 'Todd']
-   d) ['hello my name is #Todd']
+  a. get numpy as np
+  b. import numpy as np
+  c. load numpy as np
+  d. set numpy as np
 
----
+2. How do you look at the first 5 rows in a dataframe (df)?
 
-Answers:
-1. d,   2. b
+  a. View(df)
+  b. df.slice(5)
+  c. df.sample(5)
+  d. df.head(5)
+
+3. A researcher wants to measure ages of participants in a study. What variable type is age?
+
+  a. continuous
+  b. nominal
+  c. ordinal
+  d. ratio
+
+4. If I have an array `list = ['red', 'blue', 'yellow']`, how can I access the location of 'yellow'?
+
+  a. list[yellow]
+  b. list[2]
+  c. list[3]
+  d. list['yellow']
+
+5. What will the following code generate: `print("3" * 10)`?
+
+  a. 30
+  b. 3
+  c. 0
+  d. 3333333333
+
+6. What will the output be of the following code: 
+    s = "hello my name is #Todd"
+    s.split()
+    
+  a. ['hello', 'my', 'name', 'is', '#Todd']
+  b. ['hello my name is ', 'Todd']
+  c. ['hello', 'my', 'name', 'is', 'Todd']
+  d. ['hello my name is Todd']
+
+7. What will the output be of the following code: 
+    s = "hello my name is #Todd"
+    s.split("#")
+    
+  a. ['hello', 'my', 'name', 'is', '#Todd']
+  b. ['hello my name is ', 'Todd']
+  c. ['hello', 'my', 'name', 'is', 'Todd']
+  d. ['hello my name is Todd']
+
+8. What is the output of this code:
+    X = 5
+    Y = 3
+    print(X + Y)
+
+  a. 15
+  b. 53
+  c. 8
+  d. 2
+
+9. What data type is this variable: my_numbers = [1, 2, 3]
+
+  a. numpy array
+  b. tuple
+  c. list
+  d. dictionary
+
+10. How do you print "Hello, World!"?
+
+  a. print("Hello, World!")
+  b. df.print("Hello, World!")
+  c. "Hello, World!"
+  d. print(Hello, World!)
+
+ANSWERS
+
+1. b, 2. d, 3. a, 4. c, 5. d, 6. a, 7. b, 8. c, 9. c, 10. a
