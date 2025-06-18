@@ -1,0 +1,62 @@
+1. Which library is commonly used in Python for data manipulation and analysis?
+A) NumPy
+B) Pandas
+C) Matplotlib
+D) Scikit-learn
+
+
+2. What does the method .head() do in a Pandas DataFrame?
+A) Displays summary statistics
+B) Returns the last 5 rows
+C) Returns the first 5 rows
+D) Deletes the first 5 rows
+
+
+3. Which Python library is primarily used for machine learning?
+A) Pandas
+B) Matplotlib
+C) Scikit-learn
+D) Seaborn
+
+
+4. How would you import NumPy in Python using its common alias?
+A) import numpy as npy
+B) import numpy as n
+C) import numpy
+D) import numpy as np
+
+
+R – Data Science MCQs
+5. Which function in R is used to read a CSV file?
+A) read.csv()
+B) load.csv()
+C) csv.read()
+D) import.csv()
+
+
+6. What does the summary() function do in R?
+A) Deletes the data
+B) Summarizes a dataset’s structure
+C) Provides statistical summaries (mean, min, max, etc.)
+D) Plots a graph
+
+
+7. Which R package is commonly used for data visualization?
+A) dplyr
+B) tidyr
+C) ggplot2
+D) caret
+
+
+8. In R, what operator is used to pipe (%>%) data through functions in tidyverse?
+A) %pipe%
+B) ->
+C) %>%
+D) |>
+
+
+---
+
+Answers:
+1. b,   2. c,   3. c,   4. d   
+5. a,   6. c,   7. c  8.c
