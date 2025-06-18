@@ -1,0 +1,18 @@
+1. What will print("3" * 10) generate?
+   a) 30
+   b) 3
+   c) 0
+   d) 3333333333
+
+2. What will the output of following code be in Python? 
+   s = 'hello my name is #Todd'
+   s.split('#')
+   a) ['hello', 'my', 'name', 'is', '#Todd']
+   b) ['hello my name is ', 'Todd']
+   c) ['hello', 'my', 'name', 'is', 'Todd']
+   d) ['hello my name is #Todd']
+
+---
+
+Answers:
+1. d,   2. b
