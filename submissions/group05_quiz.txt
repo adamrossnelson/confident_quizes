@@ -1,0 +1,82 @@
+
+Q1. What does the 'len()' function do in Python?
+a) Counts the number of characters in a number
+b) Returns the length of an object
+c) Creates a new list
+d) Converts to lowercase
+
+
+
+Q2. Which of the following is the correct way to create a list in Python?
+a) list = {1, 2, 3}
+b) list = (1, 2, 3)
+c) list = [1, 2, 3]
+d) list = <1, 2, 3>
+
+
+Q3. What will be the output of print(3 ** 2) in Python?
+a) 6
+b) 9
+c) 32
+d) Error
+
+
+Q4. Which method is used to add an element to the end of a list?
+a) add()
+b) insert()
+c) append()
+d) extend()
+
+
+Q5. What is the correct way to create a comment in Python?
+a) // This is a comment
+b) /* This is a comment */
+c) # This is a comment
+d) <!-- This is a comment -->
+
+
+Q6. Which of these data types is mutable in Python?
+a) String
+b) Tuple
+c) Integer
+d) List
+
+
+Q7. What does the range(5) function return?
+a) [1, 2, 3, 4, 5]
+b) [0, 1, 2, 3, 4]
+c) [0, 1, 2, 3, 4, 5]
+d) A range object representing numbers 0 to 4
+
+
+Q8. Which operator is used for floor division in Python?
+a) /
+b) //
+c) %
+d) **
+
+
+Q9. What will happen if you try to access a dictionary key that doesn't exist?
+a) Returns None
+b) Returns an empty string
+c) Raises a KeyError
+d) Creates the key automatically
+
+
+Q10. Which of the following is used to handle exceptions in Python?
+a) try/catch
+b) try/except
+c) catch/throw
+d) handle/error
+
+answers:
+1. b
+2. c
+3. b
+4. c
+5. c
+6. d
+7. d
+8. b
+9. c
+10. b
