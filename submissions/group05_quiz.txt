@@ -1,33 +1,31 @@
-Q1) What is the output of this code?
+1. What is the expected output of this code?
+          > a = np.ones((2,3))
+          > print(a)
 
-   a = np.ones((2,3))
-   print(a)
+   a. array([1., 1., 1., 1., 1.])
+   b. array([[1., 1.],
+       	     [1., 1.],
+             [1., 1.]])
+   c. array([0., 0., 0., 0.])
+   d. array([[1., 1., 1.],
+	         [1., 1., 1.]])
 
-    a. array([1., 1., 1., 1., 1.])
-    b. array([[1., 1.],
-       	      [1., 1.],
-              [1., 1.]])
-    c. array([0., 0., 0., 0.])
-    d. array([[1., 1., 1.],
-	      [1., 1., 1.]])
+2. Which of these is NOt an advantage of nuimpy arrays?
+   a. Faster to run than listss
+   b. Can use mixed types within vectors
+   c. Can more easily do operations with matrices
+   d. Can change the shape of matrices
 
-Q2) Which of these is NOt an advantage of nuimpy arrays?
-   
-    a. Faster to run than listss
-    b. Can use mixed types within vectors
-    c. Can more easily do operations with matrices
-    d. Can change the shape of matrices
+3. What is the output of this code?
+          > a = "1" + "1"
+          > print(a)
 
-Q3) What is the output of this code?
+   a. 2
+   b. 11
+   c. 1
+   d. 22
 
-    a = "1" + "1"
-    print(a)
+Correct Answers:
 
-    a. 2
-    b. 11
-    c. 1
-
-
-
-answer ) Q1/d    Q2/b  Q3/b
+1. d     2. b     3. b
 
