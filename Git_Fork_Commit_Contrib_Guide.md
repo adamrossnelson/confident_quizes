@@ -1,4 +1,4 @@
-📘 GitHub Contribution Instructions
+# 📘 GitHub Sandbox Contribution Instructions
 
 **Project**: [confident\_quizes](https://github.com/adamrossnelson/confident_quizes)  
 **Goal**: Contribute a quiz with 8–10 multiple-choice Python questions as a plain text file.
@@ -9,11 +9,13 @@
 
 ✅ Make sure you have:
 
-* A GitHub account (if working in a group only one member / at least one member will need an account).  
-* Git installed on your local machine (or one group member to have git installed).  
+* A GitHub account (if working in a group only one member / at least one member will need an account).
+* For absolute beginners review: [A brief introduction to Git for beginners | GitHub](https://youtu.be/r8jQ9hVA2qs?si=MNsW2k5A0gveRMjG).
+* For more advanced students review [Intro, Config, Creating a Repo - Version Control with Git](https://youtu.be/4UhGzmijRtM?si=kekn8PwNfAW-IEEs).
+* Git installed on your local machine (or one group member to have git installed) - Above videos will assist with installation.
 * A plain text editor (VS Code, Sublime, Jupyter Lab, or similar).
 
-✅ Work in teams of 4–5. Assign one computer as the "main workstation" for submitting your team's quiz.
+✅ Suggested: Work in teams of 4–5. Assign one computer as the "main workstation" for submitting your team's quiz.
 
 ---
 
@@ -60,11 +62,11 @@ Inside `submissions/`, create a new file named like this:
 
 Open the file in a plain text editor and write 8–10 **multiple choice Python quiz questions** in this format:
 
-`Q1. What does the 'len()' function do in Python?`  
-`a) Counts the number of characters in a number`  
-`b) Returns the length of an object`  
-`c) Creates a new list`  
-`d) Converts to lowercase`
+`1. What does the 'len()' function do in Python?`  
+`   a) Counts the number of characters in a number`  
+`   b) Returns the length of an object`  
+`   c) Creates a new list`  
+`   d) Converts to lowercase`
 
 Save the file.
 
