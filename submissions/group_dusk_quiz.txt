@@ -1,53 +1,53 @@
 1. What will len([[]]) return in Python?
-a) 0
-b) 1
-c) 2
-d) Error
+   a) 0
+   b) 1
+   c) 2
+   d) Error
 
 2. What does the pop() method do in a Python list if no index is provided?
-a) Adds an item to the end
-b) Removes the first item
-c) Removes the last item
-d) Deletes the list
+   a) Adds an item to the end
+   b) Removes the first item
+   c) Removes the last item
+   d) Deletes the list
 
 3. Which of the following would correctly sort a list my_list in ascending order?
-a) my_list.sort(reverse=True)
-b) sorted(my_list, descending=True)
-c) my_list.sort()
-d) my_list.sorted()
+   a) my_list.sort(reverse=True)
+   b) sorted(my_list, descending=True)
+   c) my_list.sort()
+   d) my_list.sorted()
 
 4. What will my_list[1:3] return if my_list = [10, 20, 30, 40, 50]?
-a) [10, 20]
-b) [20, 30]
-c) [30, 40]
-d) [20, 30, 40]
+   a) [10, 20]
+   b) [20, 30]
+   c) [30, 40]
+   d) [20, 30, 40]
 
 5. Which method removes all items from a Python list?
-a) remove()
-b) clear()
-c) delete()
-d) pop()
+   a) remove()
+   b) clear()
+   c) delete()
+   d) pop()
 
 6. How can you concatenate two lists a = [1, 2] and b = [3, 4]?
-a) a + b
-b) a.append(b)
-c) a.join(b)
-d) a.extend(b)
+   a) a + b
+   b) a.append(b)
+   c) a.join(b)
+   d) a.extend(b)
 
 7. What is the output of sum([1, 2, 3])?
-a) 6
-b) "123"
-c) [6]
-d) Error
+   a) 6
+   b) "123"
+   c) [6]
+   d) Error
 
 8. What is the correct way to check if an item exists in a list?
-a) item in list
-b) list.has(item)
-c) list.includes(item)
-d) item.exists(list)
+   a) item in list
+   b) list.has(item)
+   c) list.includes(item)
+   d) item.exists(list)
 
----
+Correct Answers:
 
-Answers:
-1. b,   2. c,   3. c,   4. B   
-5. B,   6. A,   7. A,	7. A
+1. b     2. c     3. c     4. b   
+5. b     6. a     7. a     7. a
+8. a
