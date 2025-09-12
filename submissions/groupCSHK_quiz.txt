@@ -17,8 +17,9 @@
    d) def myFunc():
 
 4. What will be the output of the following code?
-x = [1, 2, 3]  
-print(x[1])  
+         > x = [1, 2, 3]  
+         > print(x[1])
+
    a) 1
    b) 2
    c) 3
@@ -35,8 +36,8 @@ print(x[1])
    b) A list from 0 to 2
    c) A generator object for numbers 0, 1, 2
    d) An error
----
 
-Answers:
-1. c,   2. c,   3. d,   4. b   
-5. b,   6. c
+Correct Answers:
+
+1. c     2. c     3. d     4. b   
+5. b     6. c
