@@ -29,7 +29,7 @@ This repository serves as a safe playground where you can:
 2. **Clone** your fork to work on it locally
 3. **Create** a Python quiz file with questions suitable for any level of learning
 4. **Commit** your changes to your local repository
-5. **Push** to GitHub (your clon)
+5. **Push** to GitHub (your clone)
 6. Submit a **Pull Request** back to this main repository
 
 Don't worry if you're new to these ideas and these approaches! [There is also a beginner-friendly guide to walk you through each step](./Git_Fork_Commit_Contrib_Guide.md).
