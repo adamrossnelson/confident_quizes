@@ -22,6 +22,11 @@ Git is an essential skill for modern data scientists and programmers:
 - **Open Source**: Participate in the vibrant data science community
 - **Scalability**: Manage projects from small scripts to enterprise-level software with the same tool
 
+## For Anyone Getting Started
+
+- [GitHub For Beginners Video Series](https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f) - This video will help you be more confident in installing, configuring, and gettings started with Git.
+- [UW Data Science Hub Intro, Config, Creating a Repo - Version Control with Git](https://youtu.be/4UhGzmijRtM?si=A2jdEkpoSJ5MWK6O)
+
 ## How to Use This Repository
 
 This repository serves as a safe playground where you can:
