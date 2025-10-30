@@ -49,4 +49,4 @@ You'll be creating multiple-choice quiz questions about Python, data science con
 
 # Enjoy It!
 
-Don't overthink it. Happy coding and Git collaborating! 💻✨
+Don't overthink it. Happy coding and Git collaborating! 💻✨😄
