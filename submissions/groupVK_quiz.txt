@@ -1,0 +1,40 @@
+Q1. What is the correct extension for a Python file?
+A) .pt
+B) .py
+C) .python
+D) .pyt
+Q2. Which of the following is used to output text to the screen in Python?
+A) print()
+B) output()
+C) console.log()
+D) echo()
+Q3. What is the result of 3 + 4 * 2?
+A) 14
+B) 11
+C) 10
+D) 22
+Q4. Which data type is used to store a sequence of characters, like a name?
+A) float
+B) int
+C) str
+D) char
+Q5. How do you create a list of numbers from 1 to 3 in Python?
+A) list = (1, 2, 3)
+B) list = [1, 2, 3]
+C) list = {1, 2, 3}
+D) list = <1, 2, 3>
+Q6. Which keyword is used to define a function in Python?
+A) def
+B) function
+C) define
+D) func
+Q7. What will the following code output? "hello".upper()
+A) hello
+B) HELLO
+C) Hello
+D) Error
+Q8. What is the purpose of the if keyword?
+A) To loop through a block of code
+B) To define a variable
+C) To handle errors
+D) To execute a block of code only if a condition is true
