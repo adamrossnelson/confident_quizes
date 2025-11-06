@@ -1,0 +1,5 @@
+1. What does '.describe()' method do in python?
+	a) describes what you are wearing
+	b) gets the doc string
+	c) describes python
+	d) gives the descriptive statistics
