@@ -1,0 +1,53 @@
+1. Functions can be:                                                           
+a) Passed as arguments to other functions
+b) Returned from other functions
+c) Assigned to variables
+d) None of the above
+e) All of the above
+
+2. Why are functions able to be used for so many things?
+a) Because they’re cooler than other objects
+b) They can’t
+c) Because they’re first-class citizens
+
+3. What does the command “return” do?
+a) Displays the object being returned only
+b) Saves the output for future use
+c) Enters and returns down a line
+d) None of the above
+
+4. Why is Python preferred in Data Science specifically?
+a) It’s easier than other languages
+b) It’s purpose built and more refined for data science uses
+c) It has a vast range of libraries and versatile tools
+d) Most IDEs put the code in pretty colors
+
+5. Which of the below is false concerning list comprehension?
+a) You can use arithmetic operators to alter your original list
+b) You can slice the list
+c) They are mutable
+d) They use curly braces {} to create them
+
+6. Which of the below is not required to create a dictionary? 
+a) Unique Key/Value pairs
+b) Curly Braces {}
+c) Square brackets []
+d) A function
+
+7. How do you create a ‘for’ loop with both a conditional and alternate ‘else’ statement?
+a) if and else statements placed before the for statement
+b) for statement, then if and else
+c) if statement, then for statement, then else
+d) None of the above
+
+8. How many unique data types can be in a single NumPy array?
+a) Two types
+b) One type
+c) As many as you want, but only one data type per single dimension
+d) One type, which must be numeric
+
+9. How many unique data types can be in a single Pandas DataFrame?
+a) As many as needed
+b) One type
+c) As many as you want, but only one data type per column
+d) One type, which must be numeric
