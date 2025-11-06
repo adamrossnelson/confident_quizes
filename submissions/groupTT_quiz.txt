@@ -1,0 +1,5 @@
+Q1. What does the 'len()' function do in Python?
+a) Counts the number of characters in a number
+b) Returns the length of an object
+c) Creates a new list
+d) Converts to lowercase
