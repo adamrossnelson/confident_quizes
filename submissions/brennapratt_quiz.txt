@@ -3,7 +3,7 @@ a) Passed as arguments to other functions
 b) Returned from other functions
 c) Assigned to variables
 d) None of the above
-e) All of the above
+e) a, b, and c
 
 2. Why are functions able to be used for so many things?
 a) Because they’re cooler than other objects
@@ -32,7 +32,6 @@ d) They use curly braces {} to create them
 a) Unique Key/Value pairs
 b) Curly Braces {}
 c) Square brackets []
-d) A function
 
 7. How do you create a ‘for’ loop with both a conditional and alternate ‘else’ statement?
 a) if and else statements placed before the for statement
@@ -51,3 +50,14 @@ a) As many as needed
 b) One type
 c) As many as you want, but only one data type per column
 d) One type, which must be numeric
+
+Correct Answers:
+1) e
+2) c
+3) b
+4) c
+5) d
+6) c
+7) a
+8) b
+9) c
