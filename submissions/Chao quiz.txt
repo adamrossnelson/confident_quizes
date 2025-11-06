@@ -1,0 +1,48 @@
+1. What does the `len()` function return?
+   a) The average of the list
+   b) The number of items in an object
+   c) Converts a string to integer
+   d) Deletes the object
+
+2. Which keyword is used to define a function in Python?
+   a) func
+   b) define
+   c) def
+   d) function
+
+3. Which of the following is a correct way to start a `for` loop?
+   a) loop x in list:
+   b) for x in list:
+   c) for (x) -> list:
+   d) repeat x from list:
+
+4. What data type does Python use to store True/False values?
+   a) boolean
+   b) bool
+   c) truth
+   d) logic
+
+5. Which operator is used for equality comparison in Python?
+   a) =
+   b) ==
+   c) !=
+   d) ===
+
+6. What does `append()` do to a list?
+   a) Adds an item to the end
+   b) Removes an item from the end
+   c) Sorts the list
+   d) Reverses the list
+
+7. Which of the following creates a dictionary?
+   a) dict = [1,2,3]
+   b) dict = (1,2,3)
+   c) dict = { "name":"Bob", "age":20 }
+   d) dict = <name:"Bob", age:20>
+
+8. What does `input()` do?
+   a) Reads a file
+   b) Prints a message
+   c) Gets user text from keyboard
+   d) Converts number to string
+
