@@ -3,3 +3,55 @@
 	b) gets the doc string
 	c) describes python
 	d) gives the descriptive statistics
+
+2. If A is this list ['s', 't', 'a', 'r', 't']. What does A[1:3] return?
+	a) ['s', 't', 'a']
+	b) ['t', 'r', 'a']
+	c) ['t', 'a']
+	d) ['s', 't']
+
+3. What is the value of i?
+  i = 0
+  lst = [1,2,3,4,5,6,7,8]
+  for j in lst:
+	i = i + j
+	
+	a) error
+	b) [1,2,3,4,5,6,7,8]
+	c) 37
+	d) 0
+
+4. What does df.shape return if df is a pandas dataframe?
+	a) a tuple with # of rows and # of columns in the dataframe
+	b) a list of the # of rows and # of columns in a dataframe
+	c) the total number of values in the dataframe
+	d) a new data frame thats the same size as df
+
+5. How do you view a subsection of the data?
+	a) df.head()
+	b) df.tail()
+	c) df.sample()
+	d) all of the above
+
+6. Which line of code will output the names of the columns in a dataframe?
+	a) df.columns
+	b) df.cols
+	c) df.col_names
+	d) cols.df
+
+7. What does this line of code return?
+  arr[5][5] == arr[5,5]
+
+	a) True
+	b) False
+	c) Error
+	d) the cell value at the indexed point   
+
+ 
+8. What method will return the same value as df.shape[0]*df.shape[1]?
+	a) df.shape
+	b) df.size
+	c) df.len
+	d) df.total
+
+
