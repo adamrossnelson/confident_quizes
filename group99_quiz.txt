@@ -1,0 +1,48 @@
+1. How can you create a Python list? 
+   a) By placing all items inside curly braces, separated by commas
+   b) By placing all items inside square brackets, separated by commas
+   c) By writing down items on paper
+   d) By placing items inside parentheses
+
+2. What data structure in Python serves as a dynamic, mutable mapping of keys to values?
+   a) lists
+   b) tuples
+   c) sets
+   d) dictionaries
+
+3. Which of the following types cannot be used as a key in a Python dictionary?
+   a) strings
+   b) tuples
+   c) lists
+   d) integers
+
+4. Which loop will continue executing as long as a given condition remains True?
+   a) if
+   b) elif
+   c) while
+   d) for
+
+5. What does the 'lambda' keyword create in Python?
+   a) a list
+   b) a special variable
+   c) a small, anonymous function
+   d) a loop
+
+6. What is the key difference between .loc[] and .iloc[] in pandas?
+   a) .loc[] uses integer positions; .iloc[] uses labels
+   b) .loc[] is used for sorting; .iloc[] is used for filtering
+   c) .loc[] uses labels; .iloc[] uses integer based position
+   d) .loc[] and .iloc[] are interchangeable
+
+7. What is an advantage of using .fillna() over .dropna() when handling missing values in pandas?
+   a) .fillna() deletes fewer rows than .dropna()
+   b) .fillna() replaces missing values without losing data
+   c) .fillna() is faster than .dropna() in al cases
+   d) .fillna() permanently removes missing columns
+
+8. Which of the following statements about NumPy array is TRUE?
+   a) NumPy arrays can only store integers
+   b) NumPy arrays are slower than Python lists for numerical operations
+   c) NumPy arrays support element-wise operations
+   d) NumPy arrays must be one-dimensional
+
