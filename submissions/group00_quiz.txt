@@ -1,0 +1,59 @@
+1. In Python, what does the built-in function `len()` return?
+ a) The number of variables in memory
+ b) The length of the given object
+ c) The number of functions in a module
+ d) The size of your terminal window
+
+2. What is the output of print(type([]))?
+ a) <class 'tuple'>
+ b) <class 'dict'>
+ c) <class 'list'>
+ d) <class 'set'>
+
+3. Which operator performs exponentiation in Python?
+ a) ^
+ b) **
+ c) //
+ d) %
+
+4. What does range(5) generate?
+ a) 1 through 5
+ b) 0 through 5
+ c) 0 through 4
+ d) 1 through 4
+
+5. What is the correct way to define a dictionary in Python?
+ a) {1, 2, 3}
+ b) ["a": 1, "b": 2]
+ c) {"a": 1, "b": 2}
+ d) (“a”, 1), (“b”, 2)
+
+6. What does list.append(x) do?
+ a) Adds x to the beginning of the list
+ b) Replaces the last item with x
+ c) Adds x to the end of the list
+ d) Deletes x from the list
+
+7. What will 3 == "3" evaluate to?
+ a) True
+ b) False
+ c) None
+ d) Causes an error
+
+8. What is the result of bool([])?
+ a) True
+ b) False
+ c) None
+ d) []
+
+9. Which keyword is used to handle an exception?
+ a) catch
+ b) except
+ c) error
+ d) rescue
+
+10. What does the `in` keyword check?
+ a) If two values are identical
+ b) If a value exists inside a sequence
+ c) If a function has returned
+ d) If a loop has completed
