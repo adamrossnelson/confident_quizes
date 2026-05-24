@@ -1,0 +1,47 @@
+1. Which Python data type uses the squiggly brackets ({})?
+	a) List
+	b) Directory
+	c) String
+	d) Integer
+
+2. What are the components of dictionaries called?
+	a) Keys and Values
+	b) Questions and Answers
+	c) Values and Returns
+	d) Enters and Responses
+
+3. Which of these is true about Python lists compared to NumPy arrays?
+	a) They are faster to use than arrays
+	b) They are less memory intensive
+	c) They can accept any data type
+	d) They are able to accept a greater variety of functions
+
+4. Which function cannot be used to generate a NumPy array?
+	a) np.zeros()
+	b) np.arange()
+	c) np.ones()
+	d) np.twos()
+
+5. Which function is not included in basic Python?
+	a) mean
+	b) if/else
+	c) while
+	d) for
+
+6. When visualizing data using Seaborn, what do you have to write as part of the function?
+	a) graph
+	b) vis
+	c) plot
+	d) data
+
+7. How do you enter values into an f-string?
+	a) Use ""
+	b) Use {}
+	c) Use ()
+	d) Use []
+
+8. Which of these grant access to the sum function?
+	a) Basic Python
+	b) Pandas
+	c) NumPy
+	d) All of the above
