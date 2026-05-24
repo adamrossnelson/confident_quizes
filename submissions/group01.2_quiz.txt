@@ -1,0 +1,47 @@
+1. What does the 'lambda' keyword create in Python?
+   a) A new class
+   b) A loop
+   c) A small, anonymous function
+   d) A special variable
+
+2. What does the 'append()' method do for a list?
+   a) Adds an element at the end of the list
+   b) Inserts an element at the beginning
+   c) Sorts the list
+   d) Removes the last element
+
+3. What does the 'else' clause do in a 'for' or 'while' loop?
+   a) Executes if the loop condition was never True.
+   b) Executes after the loop finishes, unless the loop is terminated by a 'break'.
+   c) Executes before the loop starts.
+   d) Executes when an error occurs in the loop.
+
+4. What is the output of 5 // 2 ?
+   a) 2.5
+   b) 2
+   c) 3
+   d) Error
+
+5. What will print('Python'[::-1]) output?
+   a) 'Python'
+   b) 'nohtyP'
+   c) 'Error'
+   d) 'Pyth'
+
+6. In Seaborn, which function is commonly used to visualize correlations between numeric variables?
+   a) sns.heatmap()
+   b) sns.violinplot()
+   c) sns.countplot()
+   d) sns.catplot()
+
+7. In Seaborn's pairplot(), what does each diagonal plot usually show?
+   a) The scatter between two variables
+   b) The histogram or KDE of a single variable
+   c) A boxplot for each variable
+   d) Correlation coefficients
+
+8. What does the pwd command display?
+   a) The password of the system
+   b) The previous working directory
+   c) The print window dialog
+   d) The current working directory path
