@@ -1,0 +1,20 @@
+1. What does the 'len()' function do in Python?
+   a) Counts the number of characters in a number
+   b) Returns the length of an object
+   c) Creates a new list
+   d) Converts to lowercase
+2. Which of the following is used to output text in Python?
+A. echo()
+B. print()
+C. say()
+D. output()	
+3. Which data type is used to store text in Python?
+A. int
+B. float
+C. str
+D. bool
+4. Which symbol is used to start a comment in Python?
+A. //
+B. #
+C. <!--
+D. **
