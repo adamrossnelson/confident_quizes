@@ -1,0 +1,50 @@
+1. What does the 'len()' function do in python?
+	    a) Counts the number of characters in a number?
+	    b) Returns the length of an object
+	    c) Creates a new list
+	    d) Converts to lowercase
+
+2. How do you create a function
+	    a) Function.make
+	    b) def
+	    c) function.sum
+	    d) create.new
+
+3) How do you add a new column to a pandas dataframe?
+	    a)df['new_column'] = df['existing_column'] * 2
+	    b)add.column.df
+	    c)newcolumn.df
+	    d)df['new_column'] = df * 2
+
+4) What does broadcasting mean in Numpy?
+	    a) It means your code will be publicly broadcasted on television
+	    b) It doesn't mean anything
+	    c) Does an operation on all items in a given array
+	    d) It's how you do multiplication in pandas
+
+
+5) What's the operator for power/exponentiation?
+	    a) *2
+	    b) ++ 
+	    c) -+
+	    d) **
+
+6) What function lets you add an item to the end of a list?
+	    a) .append
+	    b) .additem
+	    c) end
+	    d) additional
+
+7) How do you get the sum of items within a dataframe?
+	    a) add.all.df
+	    b) df.sum()
+	    c) DataFrame.add.pd
+	    d) sum(df)
+
+8) What would be the output of the following for loop:
+       i + 5 for i in range(1,5)
+            a) [6,7,8,9,10]
+            b) [5,6,7,8,9]
+            c) No output
+            d) Error
+
