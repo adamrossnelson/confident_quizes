@@ -1,0 +1,18 @@
+Q1. What kind of animal is a Python?
+a) Bat
+b) Snake
+c) Insect
+d) Bacteria
+
+Q2. Who is allowed to write code?
+a) Nobody
+b) The billionaire class
+c) Only students at UW Madison
+d) Everybody
+
+Q3. Select the statement which is most accurate:
+a) Python is the best thing since sliced bread.
+b) You can just use AI and don't need to learn how to code anymore.
+c) You should only write code in the terminal directly, not using an IDE
+d) Python is a great multi-purpose coding language suited for a variety of disciplines.
+
